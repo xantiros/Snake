@@ -26,7 +26,7 @@ namespace Snake
 
         private List<Wall> _walls;
 
-        public MainWindow()
+        public MainWindow() //moja zmiana
         {
             InitializeComponent();
             InitBoard();
