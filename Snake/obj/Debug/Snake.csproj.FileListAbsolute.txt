@@ -12,3 +12,6 @@ c:\users\bklima\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snak
 c:\users\bklima\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
 c:\users\bklima\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
 c:\users\bklima\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\xantiros\Documents\Visual Studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\xantiros\Documents\Visual Studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\xantiros\Documents\Visual Studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb

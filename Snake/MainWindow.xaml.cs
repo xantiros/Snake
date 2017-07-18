@@ -15,7 +15,7 @@ namespace Snake
     public partial class MainWindow : Window
     {
         private MySnake waz;
-        private static readonly int SIZE = 8;               //rozmiar całości
+        private static readonly int SIZE = 9;               //rozmiar całości
 
         private int _directionX = 1;
         private int _directionY = 0;
